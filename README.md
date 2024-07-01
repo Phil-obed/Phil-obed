@@ -25,7 +25,7 @@ Here are a few technologies and tools I work with:
 
 ### Syringe pump
 
-![Project 1 Screenshot](https://drive.google.com/file/d/1-0wNCTVZLfJqzjE3GWYrqN0-khQKcCLG/view?usp=drive_link)
+![Project 1 Screenshot](H:\MyDrive)
 
 A brief description of Project 1. [Link to the project repository]
 
