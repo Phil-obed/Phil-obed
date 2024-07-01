@@ -25,13 +25,15 @@ Here are a few technologies and tools I work with:
 
 ### Syringe pump
 
-![Project 1 Screenshot](H:\MyDrive)
+
+![syring pump v3](https://github.com/Phil-obed/Phil-obed/assets/50866640/313af2cf-dcfd-47bc-b46d-5691abdf8aba)
 
 A brief description of Project 1. [Link to the project repository]
 
 ### Generative design shelf bracket
 
-![Project 2 Screenshot](https://drive.google.com/file/d/1Gc3dVCUIRt310dkC0MbGQ4U63oeklvBo/view?usp=drive_link)
+![Bracket_v1_2024-Jun-30_10-11-41PM-000_CustomizedView2692140703](https://github.com/Phil-obed/Phil-obed/assets/50866640/121be6ef-3c0f-4436-8ebc-e74c8f261dbc)
+
 
 A brief description of Project 2. [Link to the project repository]
 
