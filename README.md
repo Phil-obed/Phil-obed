@@ -19,7 +19,7 @@ Here are a few technologies and tools I work with:
 
 - **Programming Languages:** Python, C++, HTML, CSS, JavaScript, Arduino
 - **Tools:** KiCad, Fusion360, SolidWorks
-- **Other:** [linux, ROS]
+- **Other:** linux, ROS
 
 ## Projects
 
@@ -28,14 +28,14 @@ Here are a few technologies and tools I work with:
 
 ![syring pump v3](https://github.com/Phil-obed/Phil-obed/assets/50866640/313af2cf-dcfd-47bc-b46d-5691abdf8aba)
 
-A brief description of Project 1. [Link to the project repository]
+An automated infusion and retraction pump
 
 ### Generative design shelf bracket
 
 ![Bracket_v1_2024-Jun-30_10-11-41PM-000_CustomizedView2692140703](https://github.com/Phil-obed/Phil-obed/assets/50866640/121be6ef-3c0f-4436-8ebc-e74c8f261dbc)
 
 
-A brief description of Project 2. [Link to the project repository]
+Shelf with a generative designed bracket 
 
 ## Connect with Me
 
