@@ -1,75 +1,55 @@
-# Custom Shelf Project
+# Hi there 👋, I'm Philemon
 
-![Custom Shelf](path/to/your/image.png)
+![Profile Banner](path/to/your/banner/image.png)
 
-## Overview
+Welcome to my GitHub profile! I'm a passionate Industrial Designer, Embedded System Designer, and Roboticist based in Ghana. Here you'll find a collection of my projects, contributions, and a bit more about me.
 
-This project showcases the design and creation of a custom shelf with beautifully crafted brackets. Combining functionality with aesthetics, this shelf is a perfect addition to any modern space.
+## About Me
 
-## Features
+I am a student with a strong passion for industrial design, embedded systems, and robotics. Currently, I'm working on various projects while continuously learning and exploring new technologies.
 
-- **Elegant Design:** A sleek wooden shelf with intricately designed metal brackets.
-- **High-Quality Materials:** Durable wood and strong metal brackets ensure long-lasting use.
-- **Easy Installation:** Step-by-step instructions for easy assembly and installation.
+- 🔭 I’m currently working on several exciting projects in the fields of robotics and embedded systems.
+- 🌱 I’m currently learning AI to enhance my skill set.
+- 👯 I’m looking to collaborate on projects involving AI, embedded programming, and robotics programming.
+- 💬 Ask me about anything related to industrial design, embedded systems, and robotics.
 
-## Table of Contents
+## Skills
 
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Here are a few technologies and tools I work with:
 
-## Getting Started
+- **Programming Languages:** Python, C++, HTML, CSS, JavaScript, Arduino
+- **Tools:** KiCad, Fusion360, SolidWorks
+- **Other:** [linux, ROS]
 
-These instructions will guide you through the process of setting up and using the custom shelf.
+## Projects
 
-### Prerequisites
+### [Project 1 Name]
 
-Before you begin, ensure you have the following tools and materials:
+![Project 1 Screenshot](path/to/project1/image.png)
 
-- Drill
-- Screws
-- Wall Anchors (if mounting on drywall)
-- Level
-- Measuring Tape
+A brief description of Project 1. [Link to the project repository]
 
-### Installation
+### [Project 2 Name]
 
-1. **Mark the Locations:** Use the measuring tape and level to mark where you want to install the brackets.
-2. **Drill Holes:** Drill holes at the marked locations for the screws or wall anchors.
-3. **Attach Brackets:** Secure the brackets to the wall using screws and wall anchors if necessary.
-4. **Place the Shelf:** Place the wooden shelf on the brackets and secure it in place.
+![Project 2 Screenshot](path/to/project2/image.png)
 
-## Usage
+A brief description of Project 2. [Link to the project repository]
 
-This shelf can be used in various settings such as:
+## Connect with Me
 
-- **Living Rooms:** To display decorative items and books.
-- **Kitchens:** To store and showcase kitchenware.
-- **Offices:** For organizing books and office supplies.
+- [LinkedIn](https://www.linkedin.com/in/philemon-obed-obeng-a4497524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Instagram](https://www.instagram.com/_.scott_scott.__/#)
+- [Email](mailto:philemonobjnr@gmail.com)
 
-## Contributing
+## GitHub Stats
 
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
+![Philemon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
-### Steps to Contribute
+## Recent Activity
 
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-*Follow me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for more projects and updates.*
-
+*This README was generated using [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator).*
