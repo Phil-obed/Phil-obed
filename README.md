@@ -23,15 +23,15 @@ Here are a few technologies and tools I work with:
 
 ## Projects
 
-### [Project 1 Name]
+### Syringe pump
 
-![Project 1 Screenshot](path/to/project1/image.png)
+![Project 1 Screenshot](https://drive.google.com/file/d/1-0wNCTVZLfJqzjE3GWYrqN0-khQKcCLG/view?usp=drive_link)
 
 A brief description of Project 1. [Link to the project repository]
 
-### [Project 2 Name]
+### Generative design shelf bracket
 
-![Project 2 Screenshot](path/to/project2/image.png)
+![Project 2 Screenshot][(https://drive.google.com/file/d/19GAgOAET_avSjVIuco3L4urmoAcme4sw/view?usp=drive_link)
 
 A brief description of Project 2. [Link to the project repository]
 
