@@ -31,7 +31,7 @@ A brief description of Project 1. [Link to the project repository]
 
 ### Generative design shelf bracket
 
-![Project 2 Screenshot][(https://drive.google.com/file/d/19GAgOAET_avSjVIuco3L4urmoAcme4sw/view?usp=drive_link)
+![Project 2 Screenshot](https://drive.google.com/file/d/1Gc3dVCUIRt310dkC0MbGQ4U63oeklvBo/view?usp=drive_link)
 
 A brief description of Project 2. [Link to the project repository]
 
