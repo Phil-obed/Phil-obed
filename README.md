@@ -1,8 +1,8 @@
 <!-- ========== BANNER SECTION ========== -->
 <!-- Replace the placeholder link below with your actual banner image -->
-<img src="BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+<img src="./banner.png" alt="Banner" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <!-- ========== HEADER SECTION ========== -->
 
@@ -23,7 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-obed-obeng-a4497524b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-philemonobjnr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philemonobjnr@gmail.com)
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff,200:000000&height=2&section=header" width="100%"/>
