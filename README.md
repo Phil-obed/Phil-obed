@@ -1,210 +1,97 @@
+<!-- ========== BANNER SECTION ========== -->
+<!-- Replace the placeholder link below with your actual banner image -->
+<img src="BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+
+---
+
+<!-- ========== HEADER SECTION ========== -->
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hey+There+%F0%9F%91%8B;I'm+PHILEMON+OBED+OBENG;" alt="Typing SVG" />
+# 👋 Hi, I'm **PHILEMON OBED OBENG**
 
-<!-- Futuristic Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;3D+Designer;Embedded+Systems+Developer;AI+Enthusiast;Control+Systems+Engineer)](https://git.io/typing-svg)
 
-</div>
+---
 
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPhil-obedanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- About Section -->
-<div align="center">
-  
-## **ROBOTICS ENGINEER & SYSTEMS DESIGNER**
+<!-- ========== ONE-LINE PITCH + CONTACTS ========== -->
 
-*Engineering intelligence into motion — where machines learn, sense, and adapt.*
+### Building intelligent systems that merge **hardware, AI, and design** to solve real-world problems.
 
-```ascii
-╭──────────────────────────────────────────────────────────────╮
-│  ⚙️ Mission: Building intelligent systems that work anywhere │
-│  🌍 Vision: A world powered by smart, autonomous technology  │
-│  🔋 Passion: Merging electronics, AI, and mechanics into one │
-╰──────────────────────────────────────────────────────────────╯
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-obed-obeng-a4497524b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-philemonobjnr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philemonobjnr@gmail.com)
 
-```
+---
 
-</div>
+<!-- ========== ABOUT SECTION ========== -->
 
-<br>
+### 🧠 About Me  
+I'm an Electrical and Electronics Engineer passionate about robotics, embedded systems, and AI-driven automation.  
+I design and prototype intelligent machines — from autonomous inspection robots for thermal plants (reducing manual inspection time by 65%) to sustainable power systems like *Ventro*, the artificial energy-generating tree.  
+Always blending engineering precision with creative design.
 
-<!-- Social Badges -->
-<div align="center">
-  
-### 🌐 **CONNECT WITH JOEL TODAY**
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/joel-senyo-ahadzi-298b56212/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/S_A_JOEL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/senyojoey/)
+<!-- ========== GITHUB STATS ========== -->
 
-</div>
-
-<br>
-
-<!-- Tech Stack -->
 <div align="center">
 
-### ⚡ **TECH ARSENAL**
+| | |
+|---|---|
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phil-obed&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phil-obed&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" /> |
 
-*Wielding cutting-edge technologies to build tomorrow*
-
-<div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-</div>
-
-</div>
-
-<br>
-
-<!-- GitHub Stats -->
-<div align="center">
-
-### 🌌 **QUANTUM PERFORMANCE ANALYTICS**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
-```ascii
-┌─ SYSTEM STATUS ──────────────────────────────────────┐
-│ ⚡ NEURAL NETWORK: ACTIVE      🔋 POWER LEVEL: 9000+ │
-│ 🚀 DEPLOYMENT STATUS: ONLINE   💎 EFFICIENCY: 99.9%  │
-│ 🌊 DATA STREAMS: FLOWING       ⭐ QUALITY: STELLAR   │
-└──────────────────────────────────────────────────────┘
-```
-
-<table align="center">
-<tr>
-<td align="center" style="padding: 20px;">
-
-**🎯 CORE METRICS**
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Senyoj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00D9FF&text_color=ffffff&icon_color=ff6b6b&border_radius=15&custom_title=⚡%20GITHUB%20MATRIX&ring_color=00D9FF" width="100%" />
-
-</td>
-<td align="center" style="padding: 20px;">
-
-**🔥 STREAK PROTOCOL**
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Senyoj&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&border_radius=15" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2&section=footer" width="100%"/>
-
-<br>
-
-### 🏆 **ACHIEVEMENT CONSTELLATION**
-
-<div style="background: linear-gradient(45deg, #0D1117, #1a1a2e, #16213e, #0f3460); padding: 25px; border-radius: 20px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Senyoj&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience)
-
-</div>
-
-<br>
-
-### 💫 **NEURAL LANGUAGE PROCESSING**
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senyoj&layout=donut&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=00D9FF&text_color=ffffff&border_radius=15&custom_title=🧠%20COGNITIVE%20STACK" />
-
-</td>
-<td align="center" width="50%">
-
-```ascii
-╔═══════════════════════════════╗
-║        🧠 AI ANALYSIS         ║
-╠═══════════════════════════════╣
-║  📈 Code Quality:    A++      ║
-║  🎯 Efficiency:      98.7%    ║
-║  ⚡ Performance:     Optimal  ║
-║  🔮 Innovation:      Maximum  ║
-║  🚀 Future Ready:    ✅       ║
-╚═══════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-<br>
-
-<!-- Contribution Graph -->
-<div align="center">
-
-### 📈 **CONTRIBUTION MATRIX**
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Senyoj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area_color=00D9FF&area=true)
-
-</div>
-
-<br>
-
-<!-- Skills Icons -->
-<div align="center">
-
-### 🛠️ **SKILL CONSTELLATION**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,firebase,figma,blender,ps,js,ts,html,css,nodejs,git,github,vscode" alt="Skills" />
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-
-### 💎 **PHILOSOPHY**
-
-```ascii
-╔══════════════════════════════════════╗
-║                                      ║
-║           #DO HARD THINGS            ║
-║                                      ║
-║    "The future belongs to those      ║
-║     who dare to push boundaries"     ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-<br>
-
-****
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Phil-obed&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
 </div>
 
 ---
 
+<!-- ========== TECH GRID ========== -->
+
+### 🧰 Tech & Tools
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Senyoj&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![ROS](https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=22314E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![KiCad](https://img.shields.io/badge/KiCad-000000?style=for-the-badge&logo=kicad&logoColor=314CB0)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-000000?style=for-the-badge&logo=autodesk&logoColor=0696D7)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+---
+
+
+
+
+
+
+<!-- ========== ACTIVITY GRAPH ========== -->
+
+<div align="center">
+
+### ⚡ Activity Graph
+
+[![Phil-obed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phil-obed&bg_color=000000&color=ffffff&line=808080&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ========== FOOTER ========== -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Phil-obed&color=grey&style=for-the-badge)
 
 </div>
