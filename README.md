@@ -10,6 +10,8 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPhil-obedanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- About Section -->
 <div align="center">
   
