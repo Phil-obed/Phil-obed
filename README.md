@@ -2,7 +2,7 @@
 <!-- Replace the placeholder link below with your actual banner image -->
 <img src="BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ========== HEADER SECTION ========== -->
 
@@ -12,8 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;3D+Designer;Embedded+Systems+Developer;AI+Enthusiast;Control+Systems+Engineer)](https://git.io/typing-svg)
 
----
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff,200:000000&height=2&section=header" width="100%"/>
 
 
 <!-- ========== ONE-LINE PITCH + CONTACTS ========== -->
@@ -25,7 +25,9 @@
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-philemonobjnr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philemonobjnr@gmail.com)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff,200:000000&height=2&section=header" width="100%"/>
+
 
 <!-- ========== ABOUT SECTION ========== -->
 
@@ -34,21 +36,36 @@ I'm an Electrical and Electronics Engineer passionate about robotics, embedded s
 I design and prototype intelligent machines — from autonomous inspection robots for thermal plants (reducing manual inspection time by 65%) to sustainable power systems like *Ventro*, the artificial energy-generating tree.  
 Always blending engineering precision with creative design.
 
----
 
-<!-- ========== GITHUB STATS ========== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff,200:000000&height=2&section=header" width="100%"/>
+
+
+<!-- ========== 📊 GITHUB STATS ========== -->
+<h2 align="center">📊 Statistics</h2>
 
 <div align="center">
 
-| | |
-|---|---|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phil-obed&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phil-obed&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" /> |
+<!-- Main Stats Cards -->
+<table>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Phil-obed&show_icons=true&theme=transparent&hide_border=false&border_color=444&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+    </td>
+    <td>
+      <img height="160em" src="https://streak-stats.demolab.com?user=Phil-obed&theme=transparent&hide_border=false&border_color=444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=cccccc&currStreakNum=ffffff&dates=777777" />
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Phil-obed&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+<!-- Languages Card -->
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phil-obed&layout=compact&theme=transparent&hide_border=false&border_color=444&title_color=ffffff&text_color=cccccc" />
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff,200:000000&height=2&section=header" width="100%"/>
+
 
 <!-- ========== TECH GRID ========== -->
 
