@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hello+All+%F0%9F%91%8B;I'm+JOEL+SENYO+AHADZI;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hey+There+%F0%9F%91%8B;I'm+PHILEMON+OBED+OBENG;" alt="Typing SVG" />
 
 <!-- Futuristic Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -13,16 +13,17 @@
 <!-- About Section -->
 <div align="center">
   
-##  **DIGITAL ARCHITECT & INNOVATION CATALYST**
+## **ROBOTICS ENGINEER & SYSTEMS DESIGNER**
 
-*Crafting tomorrow's digital experiences through code and design*
+*Engineering intelligence into motion — where machines learn, sense, and adapt.*
 
 ```ascii
-╭─────────────────────────────────────────────────╮
-│  🎯 Mission: Transforming Ideas into Reality    │
-│  💡 Vision: Building the Future of Technology   │
-│  ⚡ Passion: Creating Seamless User Experiences │
-╰─────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│  ⚙️ Mission: Building intelligent systems that work anywhere │
+│  🌍 Vision: A world powered by smart, autonomous technology  │
+│  🔋 Passion: Merging electronics, AI, and mechanics into one │
+╰──────────────────────────────────────────────────────────────╯
+
 ```
 
 </div>
