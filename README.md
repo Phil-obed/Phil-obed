@@ -1,6 +1,6 @@
 <!-- ========== BANNER SECTION ========== -->
 <!-- Replace the placeholder link below with your actual banner image -->
-<img src="./banner.jpg" alt="Banner" width="100%"/>
+<img src="./banner.png" alt="Banner" width="100%"/>
 
 <br>
 
@@ -32,7 +32,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-obed-obeng-a4497524b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/YOUR_USERNAME](https://www.instagram.com/_.scott_scott.__/#))
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
 
@@ -46,9 +46,8 @@
   About Me
 </h2>
 
-I'm an Electrical and Electronics Engineer passionate about robotics, embedded systems, and AI-driven automation.  
-I design and prototype intelligent machines — from autonomous inspection robots for thermal plants (reducing manual inspection time by 65%) to sustainable power systems like *Ventro*, the artificial energy-generating tree.  
-Always blending engineering precision with creative design.
+I’m an Electrical and Electronics Engineer who loves building things that move, think, and solve real problems. 
+I design and prototype systems that blend hardware, software, and control.
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff,200:000000&height=2&section=header" width="100%"/>
